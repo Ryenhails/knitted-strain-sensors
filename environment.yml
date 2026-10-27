@@ -1,0 +1,11 @@
+# The versions the paper's results were produced and verified with.
+#   conda env create -f environment.yml && conda activate knit-sensors
+name: knit-sensors
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=2.2.6
+  - scipy=1.15.3
+  - scikit-learn=1.7.2
+  - matplotlib=3.10.8

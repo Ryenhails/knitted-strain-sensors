@@ -1,0 +1,13 @@
+metric,pairing,rho,ci_lo,ci_hi
+GF,same-sample,0.925,0.684,0.996
+GF,design-mean,0.978,0.871,1.000
+R0,same-sample,0.925,0.636,1.000
+R0,design-mean,0.859,0.492,0.982
+stab,same-sample,0.776,0.345,0.951
+stab,design-mean,0.776,0.377,0.933
+WR,same-sample,0.576,-0.034,0.931
+WR,design-mean,0.459,-0.175,0.858
+LR,same-sample,0.459,-0.119,0.857
+LR,design-mean,0.154,-0.464,0.636
+H,same-sample,0.477,-0.040,0.830
+H,design-mean,0.459,-0.200,0.910
